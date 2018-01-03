@@ -168,7 +168,7 @@ def display():
 # call function
 if elements:
     save_cookie()
-    print("Location: /~wangy/investment_survey/page2.py")  # redirect to page2
+    print("Location: /~wangy/investment_survey/page2.py")  # redirect to page2  #absolute path 
     print("\n")
 
 display()
