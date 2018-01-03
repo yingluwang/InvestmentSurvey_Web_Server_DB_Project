@@ -1,0 +1,102 @@
+#progressbar {
+background-color:darkolivegreen;
+border-radius: 10px; 
+  width: 1500px;
+  padding: 5px;
+  width:inherit;
+  color: darkgreen;
+    position: sticky;
+}
+
+
+
+header{
+    background-image: url("page_picture/heading3.jpg");
+    position: static;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      margin-top: -15pt;
+      margin-left: -6pt;
+      padding: 2.6em;
+      text-align: center;
+      color: white
+}
+    
+body{
+    background-color: rgb(139,181,159);
+    font-family: "Helvetica Neue";
+}
+
+footer{
+    position: static;
+    height: 20px;
+    bottom: 0;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+    color:darkslategrey;
+}   
+   
+
+    
+textarea{
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    border:solid 3px white;
+    padding:5px;
+    background-color: white;
+    color:darkslategrey;
+    background-color: rgb(229,167,42);
+    }
+   
+
+    
+    
+div.text td{
+    color:darkslategrey; 
+    }   
+    
+    
+a:link {
+    color: white;
+    }
+    
+a:visited {
+    color: darkslategrey;
+    }
+    
+
+    
+form{
+    width: 100%;
+    padding: 1em;
+    color:darkslategrey;
+    }
+    
+fieldset{
+    margin-left:auto;
+    margin-right:auto;
+    -moz-border-radius: 1px;
+    border-radius: 15px; 
+    border:solid 3px white; 
+    display:inline-block; 
+    }
+    
+option{
+    font-size: 11pt;
+    color: darkslategrey;
+    }
+    
+input{
+    border: none;
+    background-color: rgb(229,167,42);
+    color: darkslategrey;
+    padding: 10px;
+    border-radius: 10px;
+    font-family: "Helvetica Neue";
+    font-size: 12pt;
+    font-weight: bold;
+    }
